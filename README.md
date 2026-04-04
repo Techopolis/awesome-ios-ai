@@ -39,6 +39,10 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 - [Core Data Expert](https://github.com/AvdLee/Core-Data-Agent-Skill) - Data modeling, fetch requests, CloudKit sync, migration, and performance.
 - [SwiftData](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/swiftdata) - @Model schemas, @Query, predicates, relationships, and migration patterns.
 
+### Formatting
+
+- [Swift FormatStyle](https://github.com/n0an/Swift-FormatStyle-Agent-Skill) - Modern `FormatStyle` and `.formatted()` APIs for numbers, dates, durations, measurements, and more, replacing legacy `Formatter` subclasses and `String(format:)`.
+
 ### Testing
 
 - [Swift Testing Expert](https://github.com/AvdLee/Swift-Testing-Agent-Skill) - Modern Swift Testing framework with `#expect`, `#require`, traits, tags, parameterized tests, and XCTest migration.
