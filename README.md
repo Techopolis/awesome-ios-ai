@@ -89,6 +89,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 - [awesome-copilot MCP](https://github.com/github/awesome-copilot) - Search and install agents, skills, and MCP servers from GitHub.
 - [MCP Swift SDK](https://github.com/modelcontextprotocol/swift-sdk) - Official Swift SDK for building MCP servers and clients.
 - [Swift Patterns MCP](https://github.com/efremidze/swift-patterns-mcp) - Swift and SwiftUI best practices from leading iOS developers with intelligent search across YouTube, Patreon, and other sources.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agent wallets on Solana. Verify agent identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Tools
 
