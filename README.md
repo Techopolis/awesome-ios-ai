@@ -59,6 +59,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 ### App Frameworks
 
 - [App Intents](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/app-intents) - Siri, Shortcuts, and App Intents framework integration.
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [Live Activities](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/live-activities) - Dynamic Island and Lock Screen live updates with ActivityKit.
 - [WidgetKit](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/widgetkit) - Home Screen and Lock Screen widget development.
 
