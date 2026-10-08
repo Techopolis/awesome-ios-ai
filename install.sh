@@ -1,10 +1,10 @@
 #!/bin/bash
-# Install all curated iOS AI skills from awesome-ios-ai
+# Install a curated subset of iOS AI skills from awesome-ios-ai
 # Usage: curl -fsSL https://raw.githubusercontent.com/Techopolis/awesome-ios-ai/main/install.sh | bash
 
 set -e
 
-echo "🍎 Installing Awesome iOS AI skills..."
+echo "🍎 Installing selected Awesome iOS AI skills..."
 echo ""
 
 # Antoine van der Lee — SwiftUI, Concurrency, Testing
@@ -22,7 +22,7 @@ echo "📦 Installing Paul Hudson's skills..."
 npx skills add twostraws/swiftui-agent-skill --all
 
 echo ""
-echo "✅ Done! All iOS AI skills installed."
+echo "✅ Done! Selected iOS AI skills installed."
 echo ""
 echo "Installed skills:"
 npx skills list 2>/dev/null || echo "Run 'npx skills list' to see installed skills."
