@@ -93,6 +93,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 ## Tools
 
 - [Copilot for Xcode](https://github.com/github/CopilotForXcode) - GitHub Copilot extension for Xcode with agent mode, completions, and code review.
+- [SuperAgent](https://github.com/pungme/superagent-desktop) - Gives Claude Code and Codex an iOS Simulator they can build into, install to, screenshot and tap through.
 
 ## Resources
 
