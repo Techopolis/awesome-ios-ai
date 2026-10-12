@@ -89,6 +89,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 - [awesome-copilot MCP](https://github.com/github/awesome-copilot) - Search and install agents, skills, and MCP servers from GitHub.
 - [MCP Swift SDK](https://github.com/modelcontextprotocol/swift-sdk) - Official Swift SDK for building MCP servers and clients.
 - [Swift Patterns MCP](https://github.com/efremidze/swift-patterns-mcp) - Swift and SwiftUI best practices from leading iOS developers with intelligent search across YouTube, Patreon, and other sources.
+- [Apple Docs 2.0 MCP](https://github.com/mishafyi/Apple-Docs-2.0-MCP) - Search Apple developer documentation, the Human Interface Guidelines and WWDC sessions (2014–2026) with code, plus an offline index of 336,629 documentation pages.
 
 ## Tools
 
